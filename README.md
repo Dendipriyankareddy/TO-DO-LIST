@@ -2,6 +2,8 @@
 
 A simple and practical To-Do List Application built with Python. Stay organized and manage your tasks efficiently using this command-line task manager. Boost your productivity with Python's power!
 
+Learn how to build a To-Do List Application using Python in this quick and practical tutorial. I'll guide you through creating a command-line task manager where you can add, view, and delete tasks. Stay organized and boost your productivity with Python's power!
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7a6dcef-c86f-493a-b947-4c11126f5ec6" />
 
 
